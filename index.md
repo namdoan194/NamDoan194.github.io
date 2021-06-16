@@ -5,7 +5,6 @@
 ### SUPPERVISED LEARNING 
 
 [Credit Card Default](/sample_page)
-<img src="images/Crime Lever.png?raw=true"/>
 <img src="images/Rank Score.png?raw=true"/>
 <img src="images/RF Score.png?raw=true"/>
 <img src="images/RF ROC.png?raw=true"/>
