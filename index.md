@@ -5,9 +5,11 @@
 ### SUPPERVISED LEARNING 
 
 [Credit Card Default](/sample_page)
+1. Project Describtion: Build Classification model to classify default and non-default borrower based on FICO Score, Income Level, 
 <img src="images/Rank Score.png?raw=true"/>
 <img src="images/RF Score.png?raw=true"/>
 <img src="images/RF ROC.png?raw=true"/>
+
 
 
 
