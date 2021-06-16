@@ -4,7 +4,7 @@
 
 ### SUPPERVISED LEARNING 
 
-[Credit Card Default]
+**CREDIT CARD DEFAULT**
 1. Project Describtion: I am trying to build different classification models to predict default and non-default borrowers. The attributes include: Loan_Type, Degree, Income, Credit_Score, Loan_Length, Gender, Signers, and Citizenship
 <br><br>
 3. Machine Learning: Support Vector Machine, Logistic Regression, K-Nearest Neighbor, Naives Bayes, and Random Forest Classifier
@@ -21,26 +21,22 @@
 
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
+**PREDICTION ON HOUSE PRICE IN BOSTON**
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+
+### UNSUPERVISED LEARNING
+
+**NEIGHBORHOOD ANALYSIS**
+
 
 ---
 
-
+### NATURAL LANGUAGE PROCESSING
+**PERSONALITY PREDICTION**
 
 
 ---
