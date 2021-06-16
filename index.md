@@ -6,10 +6,15 @@
 
 [Credit Card Default]
 1. Project Describtion: I am trying to build different classification models to predict default and non-default borrowers. The attributes include: Loan_Type, Degree, Income, Credit_Score, Loan_Length, Gender, Signers, and Citizenship
-2. Machine Learning: Support Vector Machine, Logistic Regression, K-Nearest Neighbor, Naives Bayes, and Random Forest Classifier
-3. Outcome: Among 5 different models, Random Forest Classifier has the best performance with the acuracy score of 94% and ROC_score of 0.507.
+<br><br>
+3. Machine Learning: Support Vector Machine, Logistic Regression, K-Nearest Neighbor, Naives Bayes, and Random Forest Classifier
+<br><br>
+5. Outcome: Among 5 different models, Random Forest Classifier has the best performance with the acuracy score of 94% and ROC_score of 0.507.
+<br><br>
 <img src="images/Rank Score.png?raw=true"/>
+<br><br>
 <img src="images/RF Score.png?raw=true"/>
+<br><br>
 <img src="images/RF ROC.png?raw=true"/>
 
 
