@@ -48,10 +48,9 @@ Not Really. In the graph, the large majority of people with low credit score do 
 <br><br>
 <img src="images/Actual vs Predicted on Training.png?raw=true"/>
 <br><br>
-3. Outcome: There are three attributes that hugely correlate with the house price
+3. Outcome: There are three attributes, such as Carpet, builtup area, and city type that hugely correlate with the house price
 <br><br>
-<img src="images/Actual vs Predicted on Training.png?raw=true"/>
-<br><br>
+
 ---
 
 
