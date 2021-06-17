@@ -36,8 +36,22 @@ Not Really. In the graph, the large majority of people with low credit score do 
 
 ---
 **PREDICTION ON HOUSE PRICE IN BOSTON**
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+1. Project Description: I am trying to build linear regression model to predict the house price in Boston area. The attributes includes: Taxi distance, Market distance, Hospital Distance, Carpet area, Builtup area, Parking type, City type, and Rainfall.
+<br><br>
+<img src="images/Carpet vs price.png?raw=true"/>
+<br><br>
+<img src="images/Builtup area vs price.png?raw=true"/>
+<br><br>
+<img src="images/correlation between city type and price.png?raw=true"/>
+<br><br>
+2. Machine Learning: Simplie and Multiple Linear Regression 
+<br><br>
+<img src="images/Actual vs Predicted on Training.png?raw=true"/>
+<br><br>
+3. Outcome: There are three attributes that hugely correlate with the house price
+<br><br>
+<img src="images/Actual vs Predicted on Training.png?raw=true"/>
+<br><br>
 ---
 
 
