@@ -11,9 +11,9 @@
 <br><br>
 5. Outcome: Among 5 different models, Random Forest Classifier has the best performance with the acuracy score of 94% and ROC_score of 0.507.
 <br><br>
-**Random Forest Classifier**
-<br><br>
 <img src="images/Rank Score.png?raw=true"/>
+<br><br>
+**Random Forest Classifier**
 <br><br>
 <img src="images/RF Score.png?raw=true"/>
 <br><br>
