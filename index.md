@@ -54,18 +54,6 @@ Not Really. In the graph, the large majority of people with low credit score do 
 ---
 
 
-
-### UNSUPERVISED LEARNING
-
-**NEIGHBORHOOD ANALYSIS**
-
-
----
-
-### NATURAL LANGUAGE PROCESSING
-**PERSONALITY PREDICTION**
-
-
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
